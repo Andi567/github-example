@@ -9,4 +9,4 @@ https://guides.github.com/activities/hello-world/
 5. Write commit message and commit changes
 
 For VS Code
-https://git-scm.com/download/win
+https://desktop.github.com/
