@@ -7,3 +7,6 @@ https://guides.github.com/activities/hello-world/
 3. Create a new branch
 4. Try to make changes in README
 5. Write commit message and commit changes
+
+For VS Code
+https://git-scm.com/download/win
