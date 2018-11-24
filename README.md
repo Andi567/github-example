@@ -15,3 +15,6 @@ If it will sync with desktop
 
 Functions (p.133)
 https://drive.google.com/file/d/18S_60MwDKZowkVnP1ryuVrvF7RdquUtD/view?usp=sharing
+
+Yield
+https://habr.com/post/132554/
