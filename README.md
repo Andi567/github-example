@@ -10,3 +10,5 @@ https://guides.github.com/activities/hello-world/
 
 For VS Code
 https://desktop.github.com/
+
+If it will sync with desktop
